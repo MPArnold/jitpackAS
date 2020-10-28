@@ -6,7 +6,7 @@ Example Android library project published via jitpack.io.
 
 See this [Tutorial](https://medium.com/@ome450901/publish-an-android-library-by-jitpack-a0342684cbd0) on how to publish an Android Library with JitPack.
 
-And this [blog]() is even better ....
+And this [blog](https://medium.com/@scottyab/how-to-publish-your-open-source-library-to-maven-central-5178d9579c5) is even better ....
 
 For more details check out the [documentation](https://github.com/jitpack/jitpack.io/blob/master/ANDROID.md)
 
