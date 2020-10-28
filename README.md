@@ -6,7 +6,7 @@ Example Android library project published via jitpack.io.
 
 See this [Tutorial](https://medium.com/@ome450901/publish-an-android-library-by-jitpack-a0342684cbd0) on how to publish an Android Library with JitPack.
 
-NB: This sample uses the abandoned **android-maven** plugin. Refer [here](https://github.com/MPArnold/jitpackAS) for a sample using the new **maven-publish** [plugin](https://developer.android.com/studio/build/maven-publish-plugin).
+NB: This sample uses the abandoned **android-maven** plugin. Refer [here](https://github.com/MPArnold/jitpublAS) for a sample using the new **maven-publish** [plugin](https://developer.android.com/studio/build/maven-publish-plugin).
 
 **jitpack.io** is defined [here](https://github.com/jitpack/jitpack.io).
 
