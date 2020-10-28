@@ -8,9 +8,9 @@ See this [Tutorial](https://medium.com/@ome450901/publish-an-android-library-by-
 
 And this [blog](https://medium.com/@scottyab/how-to-publish-your-open-source-library-to-maven-central-5178d9579c5) is even better ....
 
-For more details check out the [documentation](https://github.com/jitpack/jitpack.io/blob/master/ANDROID.md)
+**jitpack.io** is defined [here](https://github.com/jitpack/jitpack.io).
 
-To deploy, add the following to your (project) build.gradle with:
+To deploy this example, add the following to your (project) build.gradle with:
 ```gradle
 allprojects {
     repositories {
