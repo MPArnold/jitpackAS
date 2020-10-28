@@ -6,7 +6,7 @@ Example Android library project published via jitpack.io.
 
 See this [Tutorial](https://medium.com/@ome450901/publish-an-android-library-by-jitpack-a0342684cbd0) on how to publish an Android Library with JitPack.
 
-And this [blog](https://medium.com/@scottyab/how-to-publish-your-open-source-library-to-maven-central-5178d9579c5) is even better ....
+NB: This sample uses the abandoned **android-maven** plugin. Refer [here](https://github.com/MPArnold/jitpackAS) for a sample using the new **maven-publish** [plugin](https://developer.android.com/studio/build/maven-publish-plugin).
 
 **jitpack.io** is defined [here](https://github.com/jitpack/jitpack.io).
 
@@ -31,7 +31,7 @@ dependencies {
 If your library uses multiple flavours then see this example:
 https://github.com/jitpack-io/android-jitpack-library-example
 
-## Adding the maven plugin
+## Adding the (abandoned) maven plugin
 
 To enable installing into local maven repository and JitPack you need to add the [android-maven](https://github.com/dcendents/android-maven-gradle-plugin) plugin:
 

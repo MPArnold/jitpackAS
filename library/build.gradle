@@ -10,7 +10,7 @@ repositories {
 }
 
 group = 'com.github.MPArnold'
-version = '3.9'
+version = '3.11'
 
 android {
     compileSdkVersion 29
