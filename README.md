@@ -1,6 +1,6 @@
 # android-example
 
-[![Release](https://jitpack.io/v/jitpack/android-example.svg)](https://jitpack.io/#jitpack/android-example)
+[![Release](https://jitpack.io/v/MPArnold/jitpackAS.svg)](https://jitpack.io/#MPArnold/jitpackAS)
 
 Example Android library project that works with jitpack.io.
 
@@ -8,7 +8,7 @@ See this [Tutorial](https://medium.com/@ome450901/publish-an-android-library-by-
 
 For more details check out the [documentation](https://github.com/jitpack/jitpack.io/blob/master/ANDROID.md)
 
-https://jitpack.io/#jitpack/android-example
+https://jitpack.io/#MPArnold/jitpackAS
 
 Add it to your build.gradle with:
 ```gradle
@@ -22,7 +22,7 @@ and:
 
 ```gradle
 dependencies {
-    compile 'com.github.jitpack:android-example:{latest version}'
+    compile 'com.github.MPArnold:jitpackAS:3.10@aar'
 }
 ```
 
