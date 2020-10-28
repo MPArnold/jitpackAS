@@ -6,11 +6,11 @@ Example Android library project published via jitpack.io.
 
 See this [Tutorial](https://medium.com/@ome450901/publish-an-android-library-by-jitpack-a0342684cbd0) on how to publish an Android Library with JitPack.
 
+And this [blog]() is even better ....
+
 For more details check out the [documentation](https://github.com/jitpack/jitpack.io/blob/master/ANDROID.md)
 
-https://jitpack.io/#MPArnold/jitpackAS
-
-Add it to your build.gradle with:
+To deploy, add the following to your (project) build.gradle with:
 ```gradle
 allprojects {
     repositories {
@@ -18,11 +18,11 @@ allprojects {
     }
 }
 ```
-and:
+and the following to your (app) build.gradle:
 
 ```gradle
 dependencies {
-    compile 'com.github.MPArnold:jitpackAS:3.10@aar'
+    implementation 'com.github.MPArnold:jitpackAS:3.11@aar'
 }
 ```
 
