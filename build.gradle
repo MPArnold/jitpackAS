@@ -17,7 +17,7 @@ allprojects {
 	mavenCentral()
         google()
         jcenter()
-        // needed for the test app to
+        // Needed for the test app to fetch the code
 	    maven { url "https://jitpack.io" }
     }
 }

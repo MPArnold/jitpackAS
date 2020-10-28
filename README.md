@@ -1,8 +1,8 @@
-# android-example
+# jitpackAS
 
 [![Release](https://jitpack.io/v/MPArnold/jitpackAS.svg)](https://jitpack.io/#MPArnold/jitpackAS)
 
-Example Android library project that works with jitpack.io.
+Example Android library project published via jitpack.io.
 
 See this [Tutorial](https://medium.com/@ome450901/publish-an-android-library-by-jitpack-a0342684cbd0) on how to publish an Android Library with JitPack.
 
